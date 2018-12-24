@@ -8,7 +8,7 @@ $debug = 0;//1 to active
 $user        = "devjob";
 $password    = "cG9vcmx5Y29kZWRwYXNzd29yZA==";
 $destination = "0041765363776";
-$message = "Pierre Johner : https://github.com/JohnerPierre/NetOxygenTexto";
+$message = "XXX : https://github.com/XXX/NetOxygenTexto";
 
 
 $client = new No2SMS_Client($user, base64_decode($password));
